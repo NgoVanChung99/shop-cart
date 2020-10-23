@@ -1,0 +1,79 @@
+.nav-wrapper {
+    
+}
+.container .brand-logo{
+   
+}
+.right{
+
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+}
+.material-icons{
+    font-size: 2.4em;
+    cursor: pointer;
+}
+.card{
+    width: 20%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.card .card-image .card-title{
+    color: black;
+    font-weight: 400
+}
+.cart{
+    margin-top:40px;
+}
+.collection .collection-item{
+    display: flex;
+}
+.collection-item.avatar .title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #ee6e73;
+    display: block;
+    margin-bottom: 20px;
+    
+}
+.collection .collection-item img{
+    width: 150px;
+    margin-right: 25px;
+}
+.item-desc{
+    align-self:center;
+}
+.card .card-image img {
+    width: 100%;
+    height: 200px;
+}
+.material-icons {
+    border-radius: 3px;
+    background-color: #f7941d;
+    text-align: center;
+    min-width: 70%;
+    padding-left: 40%;
+    padding-right: 40%;
+    color: white;
+    font-style: normal;
+}
+#cart {
+
+}
+.add-remove {
+    width: 20px;
+}
+.cart-material-icons{
+    width: 100%;
+    border-radius: 3px;
+    background-color: #f7941d;
+    text-align: center;
+    padding-left: 40%;
+    padding-right: 40%;
+    color: white;
+    font-style: normal;
+    padding-right: 10px;
+}  
